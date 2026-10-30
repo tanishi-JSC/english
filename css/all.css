@@ -1,0 +1,41 @@
+body{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    height: 40px;
+}
+#sakuin{
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    left: 400px;
+    text-decoration: none;
+}
+#sakuinja{
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    left: 800px;
+    text-decoration: none;
+}
+.one{
+    width: 220px;
+    background-color: #7bc7eb;
+     position:absolute;
+    font-size: 40px;
+    color:#ffffff;
+    text-decoration: none;
+    left: 400px;
+    border-radius: 10px;
+}
+.two{
+    width: 220px;
+    background-color: #7bc7eb;
+     position:absolute;
+    font-size: 40px;
+    color:#ffffff;
+    text-decoration: none;
+    left: 800px;
+    border-radius: 10px;
+}
